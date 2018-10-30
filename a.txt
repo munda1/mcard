@@ -1,1 +1,4 @@
-kumagumo kune nyaya
+kumagumo kune nyay
+a
+2and change to a.txt:wq
+
